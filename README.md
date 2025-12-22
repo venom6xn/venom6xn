@@ -1,4 +1,4 @@
-# Amit-Thakur
+# Amit Thakur
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm AMIT THAKUR</h1>
 <h3 align="center">A passionate programmer from India</h3>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/amit_th4kur" target="blank"><img src="https://img.shields.io/twitter/follow/amit_th4kur?logo=twitter&style=for-the-badge" alt="amit_th4kur" /></a> </p>
 
-- 🔭 I’m currently working on **Personnel Portfolio Website**
+- 🔭 I’m currently working on **Building Myself**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 currently learning **AI & ML**
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, .NET Technology**
 
