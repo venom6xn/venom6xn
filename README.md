@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venom6xn&show_icons=true&locale=en" alt="venom6xn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venom6xn&alt="venom6xn" /></p>
+<p> <img align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=venom6xn&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
