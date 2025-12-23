@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom6xn&label=Profile%20views&color=0e75b6&style=flat" alt="venom6xn" /> </p>
 
-🔭 I’m currently working on **Building Myself**
-💫a learner and builder in **AI & ML**, driven by curiosity and collaboration.  <br><br>- 🔭 Building projects that matter, not just code   <br>- 👯 Collaboration over competition is my mantra (Collaboration > Competition ) <br>- 💬 I work with full dedication, heart, and hard work<br>- 🌱 Feel free to ask me about: Python, C++, and .NET technologies   <br>- ⚡ always learning, always evolving<br><br> <br> <br>
+🔭 I’m currently working on **Building Myself**<br>
+(💫a learner and builder in **AI & ML**, driven by curiosity and collaboration)  <br><br>- 🔭 Building projects that matter, not just code   <br>- 👯 Collaboration over competition is my mantra (Collaboration > Competition ) <br>- 💬 I work with full dedication, heart, and hard work<br>- 🌱 Feel free to ask me about: Python, C++, and .NET technologies   <br>- ⚡ always learning, always evolving<br><br> <br> <br>
 
 
 ## 🌐 Socials:
