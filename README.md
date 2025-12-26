@@ -8,7 +8,7 @@ fields_of_interests: [Artificial Intelligence, Machine Learning, Deep Learning..
 currently_learning: [PYTHON]
 will_learn: [React.js, Node.js]
 hobbies: [Travelling, Music Listening, DJing]
-```
+``` 
 
 <h4 align="center">a tech savvy programmer from INDIA 🇮🇳 </h4>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89705029/142737718-b3bca479-7f50-4399-97da-ad9e8be1163a.gif">
