@@ -11,7 +11,7 @@ hobbies: [Travelling, Music Listening, DJing]
 ``` 
 
 <h4 align="center">a tech savvy programmer from INDIA 🇮🇳 </h4>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89705029/142737718-b3bca479-7f50-4399-97da-ad9e8be1163a.gif">
+<img align="right" alt="Coding" width="350" src="illustration-git.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom6xn&label=Profile%20views&color=0e75b6&style=flat" alt="venom6xn" /> </p>
 
