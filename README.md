@@ -22,14 +22,16 @@ hobbies: [Travelling, Music Listening, DJing]
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/C%2B%2B-yellow">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; <br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;<br>
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/Anaconda-darkgreen">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+
 <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
