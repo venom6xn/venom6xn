@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)-->
 
 ```yaml
-name: Amit Thakur
+name: AMIT THAKUR
 located_in: [Chandigarh, India 🇮🇳]
 education: ["Bachelor's in Computer Applications"]
 fields_of_interests: [Artificial Intelligence, Machine Learning, Deep Learning...]
