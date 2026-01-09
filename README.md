@@ -15,8 +15,14 @@ hobbies: [Travelling, Music Listening, DJing]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom6xn&label=Profile%20views&color=0e75b6&style=flat" alt="venom6xn" /> </p>
 
-&nbsp; 🔭 I’m currently working on **Building Myself**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (💫a learner in **AI & ML**, driven by curiosity & collaboration)  <br>- 🔭 Building projects that matter, not just code   <br>- 👯 Collaboration over competition is my **mantra** <br>- 💬 I work with full dedication, heart, and hard work<br>- 🌱 Feel free to ask me about: **Python**, **C++**, and **.NET technologies**   <br>- ⚡ **always learning, always evolving**<br><br> <br> <br>
+💫**AI & ML learner | Project-Driven Developer**<br>
+ &nbsp; &nbsp; [AI & ML learner with a taste for Deep Learning]<br>
+🤝 Team-oriented mindset with collaborative values<br>
+⚡ Rajput's blood — discipline, patience, and hard work<br>
+💬 Committed to continuous learning and growth<br>
+🌱 Off the grid: travelling, vinyl vibes, UFC 🎧 <br><br>
+
+<br><br><br>
  
 <!--- Adding Tech Stack open Section -->
 
