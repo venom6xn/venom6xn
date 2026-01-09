@@ -47,7 +47,6 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <!--### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)-->
 
-
 <div><p align="center">
 <b> Show some ❤️ by starring some of the repositories!.</p> </div>
 
