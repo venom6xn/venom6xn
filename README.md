@@ -20,8 +20,8 @@ hobbies: [Travelling, Music Listening, DJing]
 *while*(life) *{* learn++; build++; fail--; rise++; *}* <br>
 rooted *in* fields, compiling dreams *in* silicon<br>
 logic *by* day, rhythm *by* night <br>
-offline *by* choice, versioning memories beyond the grid <br><br>
-**while location** **!=** "**Silicon Valley**": **vinyl.vibes()** and **brain.train(AI_ML)** <br><br>
+offline *by* choice, versioning memories beyond the grid :)<br><br>
+**while location** **!=** "**Silicon Valley**": **vinyl.vibes**(*retro*) and **brain.train(AI_ML)** <br><br>
 
  
 <!--- Adding Tech Stack open Section -->
