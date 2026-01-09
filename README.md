@@ -15,14 +15,14 @@ hobbies: [Travelling, Music Listening, DJing]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom6xn&label=Profile%20views&color=0e75b6&style=flat" alt="venom6xn" /> </p>
 
-💫**AI & ML learner | Project-Driven Developer**<br>
- &nbsp; &nbsp; [AI & ML learner with a taste for Deep Learning]<br>
-🤝 Team-oriented mindset with collaborative values<br>
-⚡ Rajput's blood — discipline, patience, and hard work<br>
-💬 Committed to continuous learning and growth<br>
-🌱 Off the grid: travelling, vinyl vibes, UFC 🎧 <br><br>
+**AI & ML learner | Project-Driven Developer**<br>
+*[Coding/Python learner with a taste for Deep Learning]* <br><br>
+*while*(life) *{* learn++; build++; fail--; *}* <br>
+rooted *in* fields, compiling dreams *in* silicon<br>
+logic *by* day, rhythm *by* night <br>
+offline *by* choice, versioning memories beyond the grid <br><br>
+**while location** **!=** "**Silicon Valley**": **vinyl.vibes()** and **brain.train(AI_ML)** <br><br>
 
-<br><br><br>
  
 <!--- Adding Tech Stack open Section -->
 
