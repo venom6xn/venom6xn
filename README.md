@@ -17,7 +17,7 @@ hobbies: [Travelling, Music Listening, DJing]
 
 **AI & ML learner | Project-Driven Developer**<br>
 *[Coding/Python learner with a taste for Deep Learning]* <br><br>
-*while*(life) *{* learn++; build++; fail--; *}* <br>
+*while*(life) *{* learn++; build++; fail--; rise++; *}* <br>
 rooted *in* fields, compiling dreams *in* silicon<br>
 logic *by* day, rhythm *by* night <br>
 offline *by* choice, versioning memories beyond the grid <br><br>
