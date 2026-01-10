@@ -16,7 +16,7 @@ hobbies: [Travelling, Music Listening, DJing]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom6xn&label=Profile%20views&color=0e75b6&style=flat" alt="venom6xn" /> </p>
 
 **AI & ML learner | Project-Driven Developer**<br>
-*[Coding/Python learner with a taste for Deep Learning]* <br><br>
+*[Python learner with a taste for Deep Learning]* <br><br>
 *while*(life) *{* learn++; build++; fail--; rise++; *}* <br>
 rooted *in* fields, compiling dreams *in* silicon<br>
 logic *by* day, rhythm *by* night <br>
