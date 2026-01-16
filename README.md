@@ -21,7 +21,7 @@ hobbies: [Travelling, Music Listening, DJing]
 rooted *in* fields, compiling dreams *in* silicon<br>
 logic *by* day, rhythm *by* night <br>
 offline *by* choice, versioning memories beyond the grid :)<br><br>
-**while location** **!=** "**Silicon Valley**": **vinyl.vibes**(*retro*) and **brain.train(AI_ML)** <br><br>
+*while* **location** **!=** "**Silicon Valley**": **vinyl.vibes**(*retro*) and **brain.train(AI_ML)** <br><br>
 
  
 <!--- Adding Tech Stack open Section -->
