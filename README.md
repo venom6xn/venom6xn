@@ -7,6 +7,7 @@ fields_of_interests: [Artificial Intelligence, Machine Learning, Deep Learning..
 currently_learning: [PYTHON]
 will_learn: [React.js, Node.js]
 hobbies: [Travelling, Music Listening, DJing]
+in future: ["Entrepreneur", "Public Leader", "Lawyer"]*
 ``` 
 
 <h4 align="center">a tech savvy programmer from INDIA 🇮🇳 </h4>
