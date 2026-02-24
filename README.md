@@ -7,7 +7,7 @@ fields_of_interests: [Artificial Intelligence, Machine Learning, Deep Learning..
 currently_learning: [PYTHON]
 will_learn: [React.js, Node.js]
 hobbies: [Travelling, Music Listening, DJing]
-in_future: [ "Banker"--> "Entrepreneur" --> "Politician/Lawyer"]
+in_future: ["Banker"--> "Entrepreneur" --> "Politician/Lawyer"]
 ``` 
 
 <h4 align="center">a tech savvy programmer from INDIA 🇮🇳 </h4>
@@ -60,7 +60,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)-->
 
 <div><p align="center">
-<b> Show some ❤️ by starring some of the repositories!.</b></p> </div>
+<b> show some ❤️ by starring some of the repositories!.</b></p> </div>
 
 
 ## 💰 You can help me by Donating  
