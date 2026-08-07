@@ -6,7 +6,7 @@ education: ["Bachelor's in Computer Applications"]
 fields_of_interests: [Artificial Intelligence, Machine Learning, Deep Learning...]
 currently_learning: [PYTHON]
 will_learn: [React.js, Node.js]
-hobbies: [Travelling, Music Listening, DJing]
+hobbies: [Travelling, DJ, Farming]
 in_future: ["Banker"--> "Politician/Lawyer"--> "Entrepreneur/Businessman"]
 ``` 
 
